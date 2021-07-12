@@ -1,7 +1,8 @@
 # parking_demand
-- 대회명 : DACON 주사추요 예측 AI 경진대회 [링크](https://dacon.io/competitions/official/235745/data)
-- 기간 : 2021.06.10 ~ 2021.07.30
-- 데이터셋 :
+### 대회명 
+DACON 주사추요 예측 AI 경진대회 [링크](https://dacon.io/competitions/official/235745/data) (2021.06.10 ~ 2021.07.30)
+
+### 데이터셋 :
   - train.csv
   - test.csv
   - sample_submission.csv

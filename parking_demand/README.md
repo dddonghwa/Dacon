@@ -22,3 +22,5 @@ DACON 주사추요 예측 AI 경진대회 [링크](https://dacon.io/competitions
 
 ### 참가 대상
 일반인, 학생 누구나 👩‍🎓👨🏻‍⚖️👩🏼‍💻
+
+### 제출 모델

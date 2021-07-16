@@ -26,7 +26,7 @@ DACON 주사추요 예측 AI 경진대회 [링크](https://dacon.io/competitions
 ### 제출 모델 
 |일자| 사용 모델| 사용 피처 | 과정/특징 |  결과(랭킹) | 링크 |
 |:--:|:--:|:--:|:--|:--:|:--:|
-|2021.07.12| LinearRegression | '총세대수' | - '자격유형' 결측치 처리 <br> - 각 데이터별 등록차량수 예측치의 평균을 각 단지별 등록차량수 'null'으로 저장 후 제출 | 246.91677 (336위) | [LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class28_0712_1.ipynb) |
-|2021.07.12 | RandomForestRegression |  '총세대수', '전용면적', '전용면적별세대수', '공가수',  '단지내주차면수', '자격유형', '지역' | - '자격유형' 결측치 처리 <br> - '자격유형'&'지역' 라벨인코딩 <br> - - 각 데이터별 등록차량수 예측치의 평균을 각 단지별 등록차량수 'null'으로 저장 후 제출 | 137.84508(305위) | [LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class28_0712_2.ipynb)|
-|2021.07.14|LinearRegression | '총세대수', '전용면적', '전용면적별세대수', '공가수','단지내주차면수' | - '자격유형' 결측치 처리 <br>  |[LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class29_0714_3.ipynb)|
+|2021.07.12| LinearRegression | '총세대수' | - '자격유형' 결측치 처리 <br> - 각 데이터별 등록차량수 예측치의 평균을 각 단지별 등록차량수 'null'으로 저장 후 제출 | 246.91677 <br> (336위) | [LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class28_0712_1.ipynb) |
+|2021.07.12 | RandomForestRegression |  '총세대수', '전용면적', '전용면적별세대수', '공가수',  '단지내주차면수', '자격유형', '지역' | - '자격유형' 결측치 처리 <br> - '자격유형'&'지역' 라벨인코딩 <br> - - 각 데이터별 등록차량수 예측치의 평균을 각 단지별 등록차량수 'null'으로 저장 후 제출 | 137.84508 <br> (305위) | [LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class28_0712_2.ipynb)|
+|2021.07.14|LinearRegression | '총세대수', '전용면적', '전용면적별세대수', '공가수','단지내주차면수' | - '자격유형' 결측치 처리 <br> | 115.29311 <br> (207위) |[LINK](https://github.com/dddonghwa/Dacon/blob/main/parking_demand/class29_0714_3.ipynb)|
  

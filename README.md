@@ -1,8 +1,8 @@
 # dacon-struggle
-데이콘 대회에 참여하며 수행했던 모델링의 기록
+데이콘 대회 참여 기록
 
-## parking_demand
-- 2021.06.10 ~ 2021.07.30
-- 주차수요 예측 AI 경진대회
-
-## movie_sentiment_classification
+## 목차
+| 대회명 | 기간 | 기록 | 폴더명 |
+|:-:|:-:|:-:|:-|
+| [주차 수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) | 2021.06.10 ~ 07.30 | | [parking_demand](https://github.com/dddonghwa/dacon-struggle/tree/main/parking-demand)|
+| [영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description) | 2022.01.10 ~ 01.21 | | [movie_sentiment_classification]()|
